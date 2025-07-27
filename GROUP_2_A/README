@@ -1,0 +1,5 @@
+To run Edmund-karp algorithm,
+In terminal use "make -f edMakefile.mak"
+
+To run Bidirectional algorithm,
+In terminal use "make -f bdMakefile.mak"
