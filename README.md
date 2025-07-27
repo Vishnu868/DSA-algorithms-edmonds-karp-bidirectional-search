@@ -1,6 +1,6 @@
 # DSA Algorithms: Edmonds-Karp & Bidirectional Search
 
-## 📌 Project Description
+## Project Description
 
 This project demonstrates two powerful graph algorithms used in **Data Structures and Algorithms (DSA)**:
 
@@ -11,7 +11,7 @@ These algorithms are essential in areas like **network design, routing, AI pathf
 
 ---
 
-## 📈 Learning Objectives
+## Learning Objectives
 
 - Understand **flow networks** and the concept of **maximum flow**.
 - Implement **BFS** based approaches to solve complex graph problems.
@@ -20,7 +20,7 @@ These algorithms are essential in areas like **network design, routing, AI pathf
 
 ---
 
-## 🧠 Algorithms Overview
+## Algorithms Overview
 
 ### 1. Edmonds-Karp Algorithm
 
@@ -38,7 +38,7 @@ These algorithms are essential in areas like **network design, routing, AI pathf
 
 ---
 
-## 🏗️ Technologies Used
+##  Technologies Used
 
 | Component      | Technology     |
 |----------------|----------------|
