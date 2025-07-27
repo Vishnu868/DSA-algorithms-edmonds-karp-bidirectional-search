@@ -42,9 +42,9 @@ These algorithms are essential in areas like **network design, routing, AI pathf
 
 | Component      | Technology     |
 |----------------|----------------|
-| Programming    | C++ / Python    |
+| Programming    | C++            |
 | Algorithms     | BFS, Graphs     |
-| IDE            | VS Code / CodeBlocks / PyCharm |
+| IDE            | VS Code         |
 | Input Format   | Adjacency Matrix or List |
 | Output         | Console / File |
 
